@@ -1,0 +1,33 @@
+body {
+    background-color: #F5F3F5;
+}
+
+h1 {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    margin: 0 auto;
+    background-color: #1B264F;
+    height: 700px;
+    width: 640px;
+    outline: 1px solid #1B264F;
+}
+
+button {
+    background-color: #1B264F;
+    color: #F5F3F5;
+    height: 50px;
+    width: 100px;
+    font-size: 12px;
+}
+.grid {
+    background-color: #F5F3F5;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    margin: 0;
+    outline: 3px solid #1B264F;
+}
